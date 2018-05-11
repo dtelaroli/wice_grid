@@ -1,5 +1,7 @@
 # Rails 5+ Version of WiceGrid.
 
+By Denilson
+
 Yuri no longer maintains WiceGrid & the latest published version (3.6.2) is not compatible with Rails 5.
 This fork has been made to support Rails 5+.
 
